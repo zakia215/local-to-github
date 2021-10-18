@@ -6,6 +6,6 @@ for i in range(2, x):
         prime = False
 
 if not prime:
-    print(f"{x} bukan bilangan prima")    
+    print(f"{x} is not a prime number")    
 else:
-    print(f"{x} adalah bilangan prima")   
+    print(f"{x} is a prime number")  
